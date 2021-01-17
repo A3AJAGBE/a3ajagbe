@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+## My name is Aminat, I am Nigerian currently residing in Dublin, Ireland.
+
 - 🔭 I’m currently working on developing my skills and aquiring my Master's Degree
 - 🌱 I’m currently learning python programming (Django and Flask Frameworks) for web development.
 - 👯 I’m looking to collaborate on projects.
