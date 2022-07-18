@@ -11,7 +11,7 @@ My name is Aminat Ajagbe
 I'm a tech enthusiast, passionate about learning new things to improve myself and those around me. Besides, I aim to use technology to solve problems.  
 
 * 🌍  I'm based in Dublin 
-* 🖥️  See my portfolio at [HERE](https://www.aminatajagbe.com) 
+* 🖥️  See my portfolio at [here](https://www.aminatajagbe.com) 
 * ✉️  You can contact me at [admin@aminatajagbe.com](mailto:admin@aminatajagbe.com) 
 * 🧠  I'm learning React 
 * 🤝  I'm open to collaborating on on an open source project. 
