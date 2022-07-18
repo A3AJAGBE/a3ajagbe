@@ -9,11 +9,13 @@ My name is Aminat Ajagbe
 ==============================  
 
 I'm a tech enthusiast, passionate about learning new things to improve myself and those around me. Besides, I aim to use technology to solve problems.  
+
 * 🌍  I'm based in Dublin 
-* * 🖥️  See my portfolio at [HERE](http://https://www.aminatajagbe.com) 
-* * ✉️  You can contact me at [admin@aminatajagbe.com](mailto:admin@aminatajagbe.com) 
-* * 🧠  I'm learning React * 🤝  I'm open to collaborating on on an open source project. 
-* * ⚡  I am constantly learning, I love travelling and I am passionate about all things technology and community empowerment.
+* 🖥️  See my portfolio at [HERE](http://https://www.aminatajagbe.com) 
+* ✉️  You can contact me at [admin@aminatajagbe.com](mailto:admin@aminatajagbe.com) 
+* 🧠  I'm learning React * 🤝  I'm open to collaborating on on an open source project. 
+* ⚡  I am constantly learning, I love travelling and I am passionate about all things technology and community empowerment.
+
 
 <a href="https://www.twitter.com/a3ajagbe_dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/a3ajagbe_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -30,5 +32,6 @@ I'm a tech enthusiast, passionate about learning new things to improve myself an
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/A3AJAGBE"><img src="https://github-readme-stats.vercel.app/api?username=A3AJAGBE&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="A3AJAGBE's GitHub stats" /></a>
+
 <a href="https://github.com/A3AJAGBE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A3AJAGBE&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
