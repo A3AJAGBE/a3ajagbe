@@ -10,12 +10,11 @@ My name is Aminat Ajagbe
 
 I'm a tech enthusiast, passionate about learning new things to improve myself and those around me. Besides, I aim to use technology to solve problems.  
 
-* 🌍  I'm based in Dublin 
 * 🖥️  See my portfolio at [here](https://www.aminatajagbe.com) 
 * ✉️  You can contact me at [admin@aminatajagbe.com](mailto:admin@aminatajagbe.com) 
-* 🧠  I'm learning React 
-* 🤝  I'm open to collaborating on on an open source project. 
-* ⚡  I am constantly learning, I love travelling and I am passionate about all things technology and community empowerment.
+* 🧠  I'm restarting my web dev journey from the BASICS
+* 🤝  I want to collaborate on an open-source project or start one myself. 
+* ⚡   I love travelling, and I am passionate about all things technology.
 
 
 <a href="https://www.twitter.com/a3ajagbe_dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/a3ajagbe_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
