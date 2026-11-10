@@ -8,16 +8,9 @@ Here are some ideas to get you started:
 My name is Aminat Ajagbe 
 ==============================  
 
-I'm a tech enthusiast, passionate about learning new things to improve myself and those around me. Besides, I aim to use technology to solve problems.  
+Support Operations & Escalation Lead building AI agents and n8n automations for support teams. I led 20+ Azure L2/L3 engineers at a Microsoft delivery partner, where we cut aged and reopened cases by 35%, and I now build the workflows that remove that manual work.
 
-* 🖥️  See my portfolio at [here](https://www.aminatajagbe.com) 
-* ✉️  You can contact me at [admin@aminatajagbe.com](mailto:admin@aminatajagbe.com) 
-* 🧠  I'm restarting my web dev journey from the BASICS
-* 🤝  I want to collaborate on an open-source project or start one myself. 
-* ⚡   I love travelling, and I am passionate about all things technology.
-
-
-<a href="https://www.twitter.com/a3ajagbe_dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/a3ajagbe_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+Based in Lagos (UTC+1), working UK and EU hours. Open to remote roles and relocation.
 
 ### Skills
 
